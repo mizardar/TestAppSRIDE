@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestAppSRIDE</string>
+    <string name="btnSelectDate">Select Date</string>
+    <string name="appID">b6907d289e10d714a6e88b30761fae22</string>
+    <string name="notPrimeMessage">The selected date is not a prime number</string>
+    <string name="serverError">Not able to fetch data from server</string>
+</resources>
